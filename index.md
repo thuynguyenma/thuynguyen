@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+A highly motivated scientist driven by the desire to elucidate novel molecular mechanisms of disease. Proficient in a variety of in vitro and in vivo techniques including intraperitoneal and intravenous injection, histological staining, subcloning and immunoprecipitation assay. Fast learner and excellent collaborator.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I am currently working as Postdoctoral researcher at Animal Metabolism Lab, Chonnam National University, South Korea.
