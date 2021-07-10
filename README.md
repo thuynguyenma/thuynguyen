@@ -1,8 +1,6 @@
-# academic
+# Thuy T.P. Nguyen, PhD
 
-### A Jekyll theme for academia
-
-![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
+![Academic Screenshot](portray.jpeg)
 
 A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
 
