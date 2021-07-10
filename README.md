@@ -11,7 +11,7 @@ I am currently working as Postdoctoral researcher at Animal Metabolism Lab, Chon
 - 2017 - 2021: Ph.D. in Animal Metabolism, Chonnam National University, South Korea
 
 ### Publications
-1. [SREBP-1c impairs ULK1 sulfhydration-mediated autophagic flux to promote hepatic steatosis in high-fat-diet-fed mice](https://www.sciencedirect.com/science/article/abs/pii/S1097276521004500?via%3Dihub)
+1. [Nguyen, Thuy TP, et al. "SREBP-1c impairs ULK1 sulfhydration-mediated autophagic flux to promote hepatic steatosis in high-fat-diet-fed mice." Molecular Cell (2021).](https://www.sciencedirect.com/science/article/abs/pii/S1097276521004500?via%3Dihub)
 
 ```markdown
 Syntax highlighted code block
