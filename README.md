@@ -4,9 +4,9 @@ A highly motivated scientist driven by the desire to elucidate novel molecular m
 
 ### Education
 
-## 2009 - 2014: Bachelor of Pharmacy at Hanoi University of Pharmacy (HUP), Vietnam
-## 2015 - 2017: M.S in Pharmacy at Dongguk University, South Korea
-## 2017 - 2021: Ph.D. in Animal Metabolism, Chonnam National University, South Korea
+- 2009 - 2014: Bachelor of Pharmacy at Hanoi University of Pharmacy (HUP), Vietnam
+- 2015 - 2017: M.S in Pharmacy at Dongguk University, South Korea
+- 2017 - 2021: Ph.D. in Animal Metabolism, Chonnam National University, South Korea
 
 ```markdown
 Syntax highlighted code block
