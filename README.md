@@ -2,9 +2,11 @@
 
 A highly motivated scientist driven by the desire to elucidate novel molecular mechanisms of disease. Proficient in a variety of in vitro and in vivo techniques including intraperitoneal and intravenous injection, histological staining, subcloning and immunoprecipitation assay. Fast learner and excellent collaborator.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2009 - 2014: Bachelor of Pharmacy at Hanoi University of Pharmacy (HUP), Vietnam
+2015 - 2017: M.S in Pharmacy at Dongguk University, South Korea
+2017 - 2021: Ph.D. in Animal Metabolism, Chonnam National University, South Korea
 
 ```markdown
 Syntax highlighted code block
